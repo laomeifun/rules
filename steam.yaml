@@ -7,9 +7,6 @@ payload:
   - DOMAIN-SUFFIX,fastly.steamstatic.com
   - DOMAIN,steamcdn-a.akamaihd.net,DIRECT
   - DOMAIN-SUFFIX,cm.steampowered.com
-  - DOMAIN-SUFFIX,lune.moe,DIRECT
-  - DOMAIN-SUFFIX,laomei.fun,DIRECT
-  - DOMAIN-SUFFIX,laomei.site,DIRECT
   - DOMAIN-SUFFIX,steamserver.net,DIRECT
   - IP-CIDR,45.121.184.0/24,DIRECT
   - IP-CIDR,103.10.124.0/23,DIRECT
