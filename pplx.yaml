@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,perplexity.com
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.ai
