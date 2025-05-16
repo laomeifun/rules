@@ -24,6 +24,9 @@ payload:
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn,DIRECT
   - DOMAIN,xz.pphimalayanrt.com,DIRECT
   - DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn,DIRECT
+  - DOMAIN,steamcdn-a.akamaihd.net,DIRECT
+  - DOMAIN-SUFFIX,steamserver.net,DIRECT
+
   # ================== 用户自定义直连规则结束 ==================
 
 
