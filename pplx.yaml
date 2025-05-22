@@ -2,6 +2,8 @@ payload:
   - DOMAIN-SUFFIX,pplx.ai
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,perplexity.com
+  - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,x.ai
+  
