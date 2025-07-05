@@ -6,4 +6,4 @@ payload:
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,x.ai
-  
+  - DOMAIN-SUFFIX,ai.lune.moe,DIRECT
