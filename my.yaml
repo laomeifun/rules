@@ -3,4 +3,5 @@ payload:
   - DOMAIN-SUFFIX,laomei.fun,DIRECT
   - DOMAIN-SUFFIX,laomei.site,DIRECT
   - DOMAIN-SUFFIX,ai.lune.moe,DIRECT
+  - DOMAIN-SUFFIX,gemini.anki.quest,DIRECT
   
